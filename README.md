@@ -1,0 +1,2 @@
+# Microservice_in_Python-Django-
+With respect of stateless serve side application, here is a merely simple micro service implementation in Django. Well, you can scale it up to run different applications. One of the things that make this possible with Django, it that Django has the ability to develop apps that run on its app which can be called from the main engine to the sub component of service that run its functions. 
